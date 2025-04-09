@@ -38,6 +38,8 @@ Credix se enfoca en ofrecer máxima protección para tus datos. Incluye:
 - **QoD Mobile (Quality of Device)**  
   Evalúa la confiabilidad del dispositivo que intenta acceder.
 
+Creado por David Belmonte Moreno
+
 ---
 
 > Con Credix, la seguridad de tus acreditaciones está en tu bolsillo, protegida por tecnologías de vanguardia.
